@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Aerial', // <title>
+  siteTitle: 'Roger Campbell Sr\'s Portfolio ', // <title>
   manifestName: 'Aerial',
   manifestShortName: 'Portfolio', // max 12 characters
   manifestStartUrl: '/',
@@ -10,28 +10,23 @@ module.exports = {
   pathPrefix: `/gatsby-starter-aerial/`, // This path is subpath of your hosting https://domain/portfolio
   // social
 
-  authorName: 'Anubhav Srivastava',
-  authorHeading: 'Web Developer - JAMStack - Open Source enthusiast',
+  authorName: 'Roger Campbell Sr.',
+  authorHeading: 'Director of Contact Center Operations',
   authorSocialLinks: [
     {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      icon: 'fa-linkedin',
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/rogerkcampbell05/',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      icon: 'fa-phone',
+      name: 'Phone',
+      url: 'tel:1-954-821-8272',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:rkcampbell05@gmail.com',
     },
   ],
 };
