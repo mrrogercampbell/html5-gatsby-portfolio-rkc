@@ -4,11 +4,11 @@
   "description": "Gatsby.js V2 starter template based on Hyperspace by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-hyperspace.git"
+    "url": "git+https://github.com/rc1336/html5-gatsby-porfolio-rkc"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Roger Campbell II",
+    "email": "rc1336@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -42,7 +42,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-aerial/issues"
+    "url": "https://github.com/rc1336/html5-gatsby-porfolio-rkc"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-aerial#readme"
+  "homepage": "https://github.com/rc1336/html5-gatsby-porfolio-rkc#readme"
 }
