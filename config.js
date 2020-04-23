@@ -28,5 +28,10 @@ module.exports = {
       name: 'Email',
       url: 'mailto:rkcampbell05@gmail.com',
     },
+    {
+      icon: 'fas fa-file',
+      name: 'PDF',
+      url: 'https://drive.google.com/file/d/1_mS1LyvkhFt926qbAPp4uZ7A_Td92hbn/view?usp=sharing',
+    },
   ],
 };
