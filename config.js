@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Roger Campbell Sr\'s Portfolio ', // <title>
+  siteTitle: 'Roger Campbell Sr ', // <title>
   manifestName: 'Aerial',
   manifestShortName: 'Portfolio', // max 12 characters
   manifestStartUrl: '/',
@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-aerial/`, // This path is subpath of your hosting https://domain/portfolio
+  // pathPrefix: `/gatsby-starter-aerial/`, // This path is subpath of your hosting https://domain/portfolio
   // social
 
   authorName: 'Roger Campbell Sr.',
