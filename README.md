@@ -1,4 +1,4 @@
-# Roger Campbell Sr.'s Personal Portfolio Site
+# Roger Campbell Sr.'s Professional Portfolio Site
 
 This business portfolio site was developed and deployed by (Roger Campbell II)[www.Rogercampbell.io].
 
