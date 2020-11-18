@@ -31,7 +31,7 @@ module.exports = {
     {
       icon: 'fas fa-file',
       name: 'PDF',
-      url: 'https://drive.google.com/file/d/1hOXcZXZHwrrduow2o_cXALjXodezouL0/view?usp=sharing',
+      url: 'https://drive.google.com/file/d/1YXgi6oKO0ybd5StzkWpEylv6d4jSsOwB/view',
     },
   ],
 };
